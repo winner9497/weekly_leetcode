@@ -1,2 +1,2 @@
 # weekly_leetcode
-weekly cpp leetcode
+- weekly cpp coding practice with leetcode
